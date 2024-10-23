@@ -1,0 +1,10 @@
+.btn-pink {
+  background-color: deeppink;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: #FFF4EA;
+}
+.btn-pink:hover {
+  background-color: #FFF4EA;
+  color: deeppink;
+}
